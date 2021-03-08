@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30523.141
+VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreCosmosDbJsonExtensions", "EFCoreCosmosDbJsonExtensions.csproj", "{E6A9BECA-F5E3-4D88-B1F1-82FD9A2AF2CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreCosmosDbJsonExtensions", "EFCoreCosmosDbJsonExtensions\EFCoreCosmosDbJsonExtensions.csproj", "{931CE0DF-432D-439B-AA6C-F57D96E02B16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E6A9BECA-F5E3-4D88-B1F1-82FD9A2AF2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6A9BECA-F5E3-4D88-B1F1-82FD9A2AF2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6A9BECA-F5E3-4D88-B1F1-82FD9A2AF2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6A9BECA-F5E3-4D88-B1F1-82FD9A2AF2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931CE0DF-432D-439B-AA6C-F57D96E02B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931CE0DF-432D-439B-AA6C-F57D96E02B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931CE0DF-432D-439B-AA6C-F57D96E02B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931CE0DF-432D-439B-AA6C-F57D96E02B16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CE10A3AB-D0B6-49DB-A20C-E5EFF0EA2A68}
+		SolutionGuid = {E15C78AC-DB32-4340-874F-F9CD8CCEC485}
 	EndGlobalSection
 EndGlobal

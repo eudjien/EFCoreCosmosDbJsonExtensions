@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+	  <PackageId>EntityFrameworkCore.CosmosDbJsonExtensions</PackageId>
+	  <Version>2.0.0</Version>
+	  <Owners>Evgeny Pinchuk</Owners>
+	  <Authors>Evgeny Pinchuk</Authors>
+	  <PackageTags>EntityFrameworkCore;CosmosDb;Fluent</PackageTags>
+	  <Description>EntityFrameworkCore Extensions which allows to map all properties to JSON format when targeting CosmosDb in Fluent configuration.</Description>
+	  <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+	  <RepositoryUrl>https://github.com/evgnpn/EFCoreCosmosDbJsonExtensions</RepositoryUrl>
+	  <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Cosmos" Version="5.0.3" />
+  </ItemGroup>
+
+</Project>
